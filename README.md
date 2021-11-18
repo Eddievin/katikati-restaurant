@@ -7,6 +7,9 @@ This project is made with ReactJS with the help of YELP API.
 
 The user can search for restaurants in a given location. The user can also checkout the best match of restaurants in that area. The user can also sort and find the highest rated restaurants around them. The user can also sort and find the most reviewed restaurants around them.
 
+
+![image](https://user-images.githubusercontent.com/49716569/142430333-f623c979-60ee-443b-bcbb-1952d63e4041.png)
+
 ## 🤝 Contributions
 
 Kati-kati Restaurant is now open source anyone can contribute to this project, but there are several steps which needs to be followed by you. If you made up your mind to contribute then fork the repository and star it, and then follow the steps given below:
